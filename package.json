@@ -1,5 +1,5 @@
 {
-  "name": "timestamp-micro-service",
+  "name": "timestamp-microservice",
   "version": "1.0.0",
   "description": "Converts string parameter to unix and natural language dates",
   "main": "index.js",
